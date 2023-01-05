@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Laboratory/project/sim_105/testbench
+T_opt
+!s110 1672657374
+VZ6h<3XBXfKk>W@55HmkoS2
+Z1 04 4 4 work glbl fast 0
+Z2 04 13 4 work testbench_top fast 0
+=1-0492260ea461-63b2b9de-240-7eb0
+Z3 o-quiet -auto_acc_if_foreign -work work -L unisims_ver -L unisim -L work -Lf unisims_ver +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;10.5;63
+R0
+T_opt1
+!s110 1672726439
+VWb1CiR7U63k9m@T44lHn03
+R1
+R2
+=1-0492260ea461-63b3c7a7-1cf-5830
+R3
+R4
+n@_opt1
+R5
+vglbl
+!s110 1672726435
+!i10b 1
+!s100 ^cOblXQgoBHmlX:M^NVXM0
+I;SnT8UODGa6Ka]Obc9f<m2
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1665757275
+8glbl.v
+Fglbl.v
+L0 6
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1672726435.000000
+!s107 glbl.v|
+!s90 -reportprogress|300|-work|work|glbl.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vtestbench_top
+Z10 !s110 1672726436
+!i10b 1
+!s100 >dgNXNH64F_nTGVZcN5[Z3
+I9J?IIm<e7HW[m<AXM`TaT0
+R6
+R0
+w1672726405
+8testbench_top.v
+Ftestbench_top.v
+L0 4
+R7
+r1
+!s85 0
+31
+!s108 1672726436.000000
+!s107 testbench_top.v|
+!s90 -reportprogress|300|-work|work|testbench_top.v|
+!i113 0
+R9
+R4
+vvlg_design_ex1
+R10
+!i10b 1
+!s100 m[ODOQQkz`0Dm@`FIOfA22
+Iaga4I?I>U:IeO0aDR::]z2
+R6
+R0
+w1672569050
+8../design/vlg_design_ex1.v
+F../design/vlg_design_ex1.v
+L0 4
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 ../design/vlg_design_ex2.v|../design/vlg_design_ex1.v|
+Z12 !s90 -reportprogress|300|-work|work|../design/vlg_design_ex1.v|../design/vlg_design_ex2.v|
+!i113 0
+R9
+R4
+vvlg_design_ex2
+R10
+!i10b 1
+!s100 UL?bS]O_Tbo7Y@@MXbDml3
+IGA<MXeMYPah[Q[bNdGYcB3
+R6
+R0
+w1672657252
+8../design/vlg_design_ex2.v
+F../design/vlg_design_ex2.v
+L0 4
+R7
+r1
+!s85 0
+31
+R8
+R11
+R12
+!i113 0
+R9
+R4

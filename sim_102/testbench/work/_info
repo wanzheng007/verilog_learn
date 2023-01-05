@@ -1,0 +1,61 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Laboratory/project/sim_102/testbench
+T_opt
+!s110 1672475807
+VUEfHHYIR=1gM@]e1[Pz]92
+04 13 4 work testbench_top fast 0
+=1-0492260ea461-63aff49f-35-6630
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vtestbench_top
+!s110 1672475805
+!i10b 1
+!s100 i?l:]2KnW;PLQ@:hK5kFg3
+I2BRf73;2F<XDjUm0G0XhQ0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1672475676
+8testbench_top.v
+Ftestbench_top.v
+L0 4
+Z3 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1672475805.000000
+!s107 testbench_top.v|
+!s90 -reportprogress|300|-work|work|testbench_top.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vvlg_design
+!s110 1672475804
+!i10b 1
+!s100 SGP4JBh^RC=f48egk_ka03
+IDXYOinZD:e3UMU[TF8MQG1
+R2
+R0
+w1672475784
+8../design/vlg_design.v
+F../design/vlg_design.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1672475804.000000
+!s107 ../design/vlg_design.v|
+!s90 -reportprogress|300|-work|work|../design/vlg_design.v|
+!i113 0
+R4
+R1
