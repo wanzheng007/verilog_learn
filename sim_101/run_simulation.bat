@@ -1,4 +1,5 @@
 
+
 @echo off
 @cls
 title FPGA Auto Simulation batch script
@@ -30,3 +31,4 @@ del vsim.wlf
 del transcript.
 
 :end
+
