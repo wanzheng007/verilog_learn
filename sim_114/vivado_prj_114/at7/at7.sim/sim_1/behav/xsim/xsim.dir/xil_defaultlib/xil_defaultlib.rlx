@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Laboratory/verilog_learn/sim_114/design/vlg_design.v,1673607115,verilog,,D:/Laboratory/verilog_learn/sim_114/testbench/testbench_top.v,,vlg_design,,,,,,,,
+D:/Laboratory/verilog_learn/sim_114/testbench/testbench_top.v,1673607110,verilog,,,,testbench_top,,,,,,,,
+D:/Laboratory/verilog_learn/sim_114/vivado_prj_114/at7/at7.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1673606916,verilog,,D:/Laboratory/verilog_learn/sim_114/design/vlg_design.v,,blk_mem_gen_0,,,,,,,,
+D:/Laboratory/verilog_learn/sim_114/vivado_prj_114/at7/at7.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,
