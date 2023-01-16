@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_115/vivado_prj_115/at7/at7.gen/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_115/design/vlg_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_115/testbench/testbench_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_115/vivado_prj_115/at7/at7.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
