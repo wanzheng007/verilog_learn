@@ -58,7 +58,7 @@ end
 always @(posedge i_clk) begin
 	if (!r_cnt_en)
 		r_tcnt <= 'b0;
-	else if (r_pcnt < (i_periord-1))
+	else if (r_pcnt == (i_periord-1))
 		r_tcnt <= r_tcnt + 1;
 	else ;
 end
