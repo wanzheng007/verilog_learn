@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Laboratory/verilog_learn/sim_124/design/vlg_cal.v,1674540286,verilog,,D:/Laboratory/verilog_learn/sim_124/design/vlg_design.v,,vlg_cal,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/design/vlg_design.v,1674542783,verilog,,D:/Laboratory/verilog_learn/sim_124/design/vlg_echo.v,,vlg_design,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/design/vlg_echo.v,1674538213,verilog,,D:/Laboratory/verilog_learn/sim_124/design/vlg_en.v,,vlg_echo,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/design/vlg_en.v,1674478537,verilog,,D:/Laboratory/verilog_learn/sim_124/design/vlg_trig.v,,vlg_en,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/design/vlg_trig.v,1674477152,verilog,,D:/Laboratory/verilog_learn/sim_124/testbench/testbench_top.v,,vlg_trig,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/testbench/testbench_top.v,1674542422,verilog,,,,testbench_top,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/vivado_prj_124/at7/at7.gen/sources_1/ip/debug_vio/sim/debug_vio.v,1674542643,verilog,,D:/Laboratory/verilog_learn/sim_124/design/vlg_cal.v,,debug_vio,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/vivado_prj_124/at7/at7.gen/sources_1/ip/mult_gen_0/sim/mult_gen_0.vhd,1674539855,vhdl,,,,mult_gen_0,,,,,,,,
+D:/Laboratory/verilog_learn/sim_124/vivado_prj_124/at7/at7.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

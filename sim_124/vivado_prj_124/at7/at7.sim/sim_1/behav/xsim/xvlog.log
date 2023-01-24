@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/vivado_prj_124/at7/at7.gen/sources_1/ip/debug_vio/sim/debug_vio.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debug_vio
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/design/vlg_cal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_cal
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/design/vlg_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/design/vlg_echo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_echo
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/design/vlg_en.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_en
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/design/vlg_trig.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_trig
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/testbench/testbench_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_124/vivado_prj_124/at7/at7.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

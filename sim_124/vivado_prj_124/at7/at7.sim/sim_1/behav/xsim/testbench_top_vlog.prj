@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../at7.gen/sources_1/ip/debug_vio/sim/debug_vio.v" \
+"../../../../../../design/vlg_cal.v" \
+"../../../../../../design/vlg_design.v" \
+"../../../../../../design/vlg_echo.v" \
+"../../../../../../design/vlg_en.v" \
+"../../../../../../design/vlg_trig.v" \
+"../../../../../../testbench/testbench_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
