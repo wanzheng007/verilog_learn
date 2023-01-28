@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Laboratory/verilog_learn/sim_130/design/m_beep.v,1674911381,verilog,,D:/Laboratory/verilog_learn/sim_130/design/m_bps.v,,m_beep,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/design/m_bps.v,1674899724,verilog,,D:/Laboratory/verilog_learn/sim_130/design/m_decoder.v,,m_bps,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/design/m_decoder.v,1674909706,verilog,,D:/Laboratory/verilog_learn/sim_130/design/m_s2p.v,,m_decoder,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/design/m_s2p.v,1674897729,verilog,,D:/Laboratory/verilog_learn/sim_130/design/vlg_design.v,,m_s2p,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/design/vlg_design.v,1674911002,verilog,,D:/Laboratory/verilog_learn/sim_130/testbench/testbench_top.v,,vlg_design,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/testbench/testbench_top.v,1674911379,verilog,,,,testbench_top,,,,,,,,
+D:/Laboratory/verilog_learn/sim_130/vivado_prj_130/at7/at7.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,,,,,,,

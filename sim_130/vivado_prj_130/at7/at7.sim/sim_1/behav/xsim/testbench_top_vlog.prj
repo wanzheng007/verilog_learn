@@ -1,0 +1,14 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../../design/m_beep.v" \
+"../../../../../../design/m_bps.v" \
+"../../../../../../design/m_decoder.v" \
+"../../../../../../design/m_s2p.v" \
+"../../../../../../design/vlg_design.v" \
+"../../../../../../testbench/testbench_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

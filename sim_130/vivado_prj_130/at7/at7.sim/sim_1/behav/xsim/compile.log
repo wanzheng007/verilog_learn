@@ -1,0 +1,14 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/design/m_beep.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m_beep
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/design/m_bps.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m_bps
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/design/m_decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m_decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/design/m_s2p.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module m_s2p
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/design/vlg_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vlg_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/testbench/testbench_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Laboratory/verilog_learn/sim_130/vivado_prj_130/at7/at7.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
