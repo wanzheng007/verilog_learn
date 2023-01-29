@@ -11,3 +11,7 @@
 - B站剩余视频链接（链接：https://pan.baidu.com/s/1I4rudWgP-iViXlJ0ibGWrA?pwd=w62e 提取码：w62e）
 - 视频中的vivado软件官网安装，软件破解license（链接：https://pan.baidu.com/s/1wqcL9Ud20-FDzx2aGKYZ_g?pwd=1rli 提取码：1rli）
 
+
+
+- Verilog在线练习网站（科学上网）（链接：https://hdlbits.01xz.net/wiki/Main_Page）
+- 上面习题的知乎讲解（https://www.zhihu.com/column/c_1131528588117385216）
